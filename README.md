@@ -1,5 +1,5 @@
 The name and id for all the products is.
-{ 'One Plus 6T': '1001',
+{ 'One Plus 6T': 'OneMob3844fa',
   'Mi A1': 'MiMob1516fa',
   'Mi 4i': 'MiMob1113fa',
   'Dove Hair Fall Rescue Shampoo': 'DoSha1095tr',
